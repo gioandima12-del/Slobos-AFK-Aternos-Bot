@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "FunBot123",
+    "password": "hudndasdwdf",
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ChameleonSMP.aternos.me",
+    "port": 23096,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 25000000,
     "y": 100,
-    "z": 0
+    "z": 25000000
   },
   "utils": {
     "auto-auth": {
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 1
     },
     "look-around": {
       "enabled": true,
