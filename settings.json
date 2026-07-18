@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "FunBot123",
     "password": "hudndasdwdf",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "ChameleonSMP.aternos.me",
